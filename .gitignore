@@ -2,5 +2,4 @@
 .DS_Store
 .ipynb_checkpoints/*
 *_pycache__/
-*.png
 pretrained/*
